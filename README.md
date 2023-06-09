@@ -1,4 +1,4 @@
 
 ## Dependencies
-sudo apt install libleptonica-dev
-sudo apt install libtesseract-dev
+- sudo apt install libleptonica-dev
+- sudo apt install libtesseract-dev
